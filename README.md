@@ -15,6 +15,10 @@ Data set : https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+
 
    
 ## API :
+run app.py to run flask serveur.
 
-## PowerPoint PDF :
+Then go on http://127.0.0.1:5000/  to see it.
+
+
+## PowerPoint PDF
 
